@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Grafana storage files
+mac/monitoring/grafana-storage/*
+
+# Ignore Prometheus data files
+mac/monitoring/prometheus-data/*
+
